@@ -1,0 +1,7 @@
+D:\编程\C#\ConsoleApp 2\bin\Debug\ConsoleApp 2.exe.config
+D:\编程\C#\ConsoleApp 2\bin\Debug\ConsoleApp 2.exe
+D:\编程\C#\ConsoleApp 2\bin\Debug\ConsoleApp 2.pdb
+D:\编程\C#\ConsoleApp 2\obj\Debug\ConsoleApp 2.csproj.AssemblyReference.cache
+D:\编程\C#\ConsoleApp 2\obj\Debug\ConsoleApp 2.csproj.CoreCompileInputs.cache
+D:\编程\C#\ConsoleApp 2\obj\Debug\ConsoleApp 2.exe
+D:\编程\C#\ConsoleApp 2\obj\Debug\ConsoleApp 2.pdb
